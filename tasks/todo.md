@@ -5,8 +5,8 @@
 - [x] Specify observable behavior and non-goals.
 - [x] Build the local Turnstile integration audit.
 - [x] Verify the complete product and signature.
-- [ ] Commit and push the private repository.
-- [ ] Record final portfolio evidence.
+- [x] Commit and push the private repository.
+- [x] Record final portfolio evidence.
 
 ## IAMUVIN signature definition of done
 
