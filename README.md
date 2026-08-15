@@ -6,7 +6,7 @@ Submitted code stays in browser memory. The generated report contains control ou
 
 ## Buyer and paid boundary
 
-The free workbench checks one integration. The buyer is a web team or implementation agency protecting signup, login, checkout, or contact forms. Team is proposed at `[TARGET] $18 per team/month` for repository extraction, multi-form inventory, reviewed exceptions, policy history, and pull-request annotations. Price, demand, customers, and revenue are unverified.
+The free workbench checks one integration. The buyer is a web team or implementation agency protecting signup, login, checkout, or contact forms. Price, demand, customers, and revenue are unverified.
 
 ## Local setup
 
