@@ -4,6 +4,8 @@ TurnstileProof reviews a Cloudflare Turnstile integration before release. Paste 
 
 Submitted code stays in browser memory. The generated report contains control outcomes and public hostnames only.
 
+![TurnstileProof on load: the release review screen for a Cloudflare Turnstile integration](docs/screenshot.png)
+
 ## Buyer and paid boundary
 
 The free workbench checks one integration. The buyer is a web team or implementation agency protecting signup, login, checkout, or contact forms. Price, demand, customers, and revenue are unverified.
